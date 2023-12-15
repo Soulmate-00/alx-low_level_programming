@@ -1,8 +1,9 @@
 #include<stdio.h>
 /**
- * main - prints "Programming is like building a multilingual puzzle" 
+ * main - prints "Programming is like building a multilingual puzzle"
  *
- * Description: C programm that prints with put function
+ * Description: C program that prints with put function
+ *
  * Return: alawys 0
 */
 
