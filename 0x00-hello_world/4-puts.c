@@ -1,14 +1,13 @@
 #include<stdio.h>
-#include<string.h>
+/**
+ * main - prints "Programming is like building a multilingual puzzle" 
+ *
+ * Description: C programm that prints with put function
+ * Return: alawys 0
+*/
 
-
-int	main(void)
+int main(void)
 {
-    char str0[] = "Programming is like building a multilingual puzzle";
-    
-    puts(str0); 
-    
-    return 0;
-
-
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
