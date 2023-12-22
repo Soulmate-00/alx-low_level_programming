@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isdigit - function that checks for uppercase character
+ * _isdigit - function that multiplies two integer
  *
  * @z: the number to be checked
  *
@@ -9,7 +9,7 @@
 
 int	_isdigit(int z)
 {
-	if (z >= 48  && z <= 75)
+	if (z >= 48  && z <= 57)
 	{
 		return (1);
 	}
