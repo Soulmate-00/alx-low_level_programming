@@ -22,6 +22,6 @@ void	print_most_numbers(void)
 		{
 			_putcar(z + '0');
 		}
-		_putcar('\n')
+		_putcar('\n');
 	}
 }
