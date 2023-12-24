@@ -3,12 +3,12 @@
 /**
  * print_line - function that draws a straight line in the terminal
  *
- * @n : the parameter
+ * @n: the parameter
  *
- * Return : always 0
+ * Return: always nothing
 */
 
-void print_line(int n)
+void	print_line(int n)
 {
 	while (n-- > 0)
 	{
