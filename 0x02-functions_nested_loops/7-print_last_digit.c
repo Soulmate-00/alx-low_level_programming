@@ -3,7 +3,7 @@
 /**
  * print_last_digit -  function that prints the last digit of a number
  *
- * @x:the parameter
+ * @x: number to be targeted
  *
  * Return: always 0
  *
